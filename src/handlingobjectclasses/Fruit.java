@@ -7,17 +7,12 @@ package handlingobjectclasses;
 
 import java.util.ArrayList;
 
-/**
+/** Representa la clase Fruta y sus caracteristicas
  *
  * @author Duvan Leal
  */
 public class Fruit {
-    /** Representa la clase Fruit y sus caracteristicas
- *
- * @author Duvan leal
- */
-
-    
+ 
     /**
      * Representa el nombre de la fruta
      */
