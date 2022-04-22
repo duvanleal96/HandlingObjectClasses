@@ -15,8 +15,15 @@ public class HandlingObjectClasses {
     /**
      * @param args the command line arguments
      */
+    BankAccount bank;
+    Book book;
+    Car car;
+    Fruit fruit;
+    Person person;
+    Student student;
     public static void main(String[] args) {
         // TODO code application logic here
+        
     }
     
 }
