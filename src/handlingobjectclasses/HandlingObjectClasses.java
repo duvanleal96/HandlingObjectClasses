@@ -5,14 +5,14 @@
  */
 package handlingobjectclasses;
 
-/**
+/**Representa la clase main de manejo de clases y objetos 
  *
  * @author Duvan Leal
  */
 
 public class HandlingObjectClasses {
 
-    /**
+    /**Representa el llamado de clases al metodo main para su ejecución
      * @param args the command line arguments
      */
     BankAccount bank;
